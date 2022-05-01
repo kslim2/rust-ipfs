@@ -1,0 +1,13 @@
+/home/mike/Developments/rust_http/target/debug/deps/http_body-f8fdd4b6c3381c7a.rmeta: /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/lib.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/empty.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/full.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/next.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/size_hint.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/mod.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/box_body.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_data.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_err.rs
+
+/home/mike/Developments/rust_http/target/debug/deps/http_body-f8fdd4b6c3381c7a.d: /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/lib.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/empty.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/full.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/next.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/size_hint.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/mod.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/box_body.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_data.rs /home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_err.rs
+
+/home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/lib.rs:
+/home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/empty.rs:
+/home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/full.rs:
+/home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/next.rs:
+/home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/size_hint.rs:
+/home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/mod.rs:
+/home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/box_body.rs:
+/home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_data.rs:
+/home/mike/.cargo/registry/src/github.com-1ecc6299db9ec823/http-body-0.4.4/src/combinators/map_err.rs:
